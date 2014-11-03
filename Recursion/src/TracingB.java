@@ -13,7 +13,7 @@ public class TracingB
 			}
 		else
 			{
-			return n + trace(n - 3);;
+			return n + trace(n - 3);
 			}
 		}
 	}
