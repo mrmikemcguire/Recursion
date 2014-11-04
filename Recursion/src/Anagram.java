@@ -2,7 +2,7 @@ public class Anagram
 	{
 	public static void main(String args[])
 		{
-		permuteString("", "1234");
+		permuteString("", "abcd");
 		}
 
 	public static void permuteString(String beginningString, String endingString)
