@@ -4,7 +4,7 @@ public class NumberSum
 
 	public static void main(String[] args)
 		{
-		System.out.println(sumNumbers(25));
+		System.out.println(sumNumbers(7));
 		}
 	
 	public static int sumNumbers(int n)
