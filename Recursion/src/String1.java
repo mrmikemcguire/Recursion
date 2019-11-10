@@ -3,7 +3,7 @@ public class String1
 	{
 	public static void main(String[] args)
 		{
-		System.out.println(recur("bat"));
+		System.out.println(recur("dog"));
 		}
 	
 	public static String recur(String s)

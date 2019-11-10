@@ -3,7 +3,7 @@ public class TracingC
 	{
 	public static void main(String[] args)
 		{
-		System.out.println(trace(4, 4));
+		System.out.println(trace(2, 4));
 		}
 	
 	public static int trace(int x, int y)
